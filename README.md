@@ -45,10 +45,6 @@ Software engineer working on backend systems, developer tooling, and distributed
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/6f42c1/mhb8898" alt="Mahdi's contribution chart" width="100%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhb8898/mhb8898/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhb8898/mhb8898/output/github-snake.svg" />
